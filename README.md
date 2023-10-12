@@ -1,5 +1,6 @@
 # Web-Based Game Design Document
-## CS 360 - Operating Platforms
+### Design document covering scenario requirements and recommendations for operating platform, storage, memory management, and distributed systems/networks for a web-based game
+CS 230 - Operating Platforms | November 2022 
 
 ### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The Gaming Room company has requested we develop a web-based version of the Android only game Draw It or Lose It. The software design must include the ability to have one or more teams, each team having multiple players assigned to it, only one instance of the game in memory at any given time, and that each game and team name are unique from one another.
